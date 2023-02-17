@@ -1,8 +1,16 @@
-# EN1090-Engineering Design Project - Solar Wifi
+## EN1090-Engineering Design Project - Solar Wifi
 
-## Solar wifi with multiple functionlaity
+# Solar wifi
 
-In this module we were asked build an electronic product/project which solves the real world problems. But luckily as a team, we got an amazing idea, as all the world know, Sri Lanka had faced economic crisis due to the shortage of foreign exhange, because of that shortage of fuel affect all the sectors especially Education and IT Sector. Mainly the power cut was the serious consequence for the Education and IT sector, as all you know due to that problem all the studies were held online, many of the students use wi-fi, light (plays major role in night time)  at all the instances of their educational, IT industrial needs. As an undergraduate, group members altogether collaboratively planned to build above product. When the power gone here we are using LDR circuit to automatically enable the solar circuit to charge the battery until that as usual adapter circuit charge the battery. To indicate the charge levels of battery we are using two(red, green) LEDs when the battery(12V) charge is full red LED turn on until that green will turn on to indicate that the battery(12V) is charging, and we annex the wi-fi, LED to charged battery(12V) to achieve our objective.
+Our team has designed a cutting-edge solar-powered Wi-Fi system that is not only sustainable but also highly functional. We wanted to create a product that would not only address the power shortage issues faced by the Education and IT sectors in Sri Lanka but also inspire people to use more eco-friendly products in their everyday lives.
+
+The design of our product is sleek and modern, with a focus on simplicity and functionality. The system is compact and easy to install, making it perfect for both indoor and outdoor use. The solar panel is designed to capture maximum sunlight, ensuring that the battery is charged quickly and efficiently.
+
+Our product is not just a simple Wi-Fi system, but a multifunctional device that includes LED lights to provide ample illumination in dark environments. The battery charge indicator lights are designed to be easy to read, so users can quickly determine the battery's charge status.
+
+We believe that our solar-powered Wi-Fi system is a game-changer, as it provides a reliable power source that is not dependent on the grid. This product has the potential to revolutionize the way people think about energy usage, by providing a sustainable solution that is both practical and efficient.
+
+Overall, our team is proud to have developed a product that not only addresses real-world issues but also inspires people to be more eco-conscious. We hope that our product will encourage more people to embrace sustainable technologies and help us move towards a greener future
 
 ## To achieve our objective, We designed
 1. PCB Schematic Diagram
