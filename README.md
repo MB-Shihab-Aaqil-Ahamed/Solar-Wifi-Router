@@ -1,4 +1,4 @@
-# EN1090-Engineering_Design_Project-Solar_Wifi
+# EN1090-Engineering Design Project-Solar Wifi
 
 ## Solar wifi with multiple functionlaity
 
