@@ -1,6 +1,6 @@
-## EN1090-Engineering Design Project - Solar Wifi
+## Solar Wifi Router
 
-# Solar wifi
+# Solar Wifi Router
 
 Our team has designed a cutting-edge solar-powered Wi-Fi system that is not only sustainable but also highly functional. We wanted to create a product that would not only address the power shortage issues faced by the Education and IT sectors in Sri Lanka but also inspire people to use more eco-friendly products in their everyday lives.
 
