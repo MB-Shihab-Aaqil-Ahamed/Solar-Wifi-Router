@@ -81,7 +81,7 @@ For example:
 
 Top Layer                    |  Bottom Layer               
 :-------------------------:|:-------------------------:
-<img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB%20Top%20Layer.png" width="400" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB%20Bottom%20Layer.png" width="400" height="400"> 
+<img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB%20Top%20Layer.png" width="500" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB%20Bottom%20Layer.png" width="500" height="400"> 
 
 PCB Design
 
