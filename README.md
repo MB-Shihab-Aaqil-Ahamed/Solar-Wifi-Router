@@ -126,3 +126,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 The project was developed as part of the Engineering Design Project at the University of Moratuwa. Special thanks to the faculty, mentors, and contributors for their guidance and support throughout the development process.
+
+Group Members:
+
+1. WEERASINGHE M.S. - 190673X
+2. ABSAR M.I.A. - 200010J
+3. AHAMED M.B.S.A. - 200014B
+4. AMANA M.A.N - 200022X
