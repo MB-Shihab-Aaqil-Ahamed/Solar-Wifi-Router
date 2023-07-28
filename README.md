@@ -88,7 +88,7 @@ Sine wave                    |  Squar wave
 <br>
 
 ## Schemetic of the PCB
-<p align="center"><img src="https://user-images.githubusercontent.com/69134587/222913429-9739e19b-aacd-4891-8aaa-9bc86e4e41fc.jpg" ></p>
+<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Schematic%20Design.png" ></p>
 
 <br>
 
