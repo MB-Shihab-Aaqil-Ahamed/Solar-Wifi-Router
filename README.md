@@ -55,7 +55,18 @@ Front View                    |  Bottom View
 
 Side View
 
-<img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-1.png" width="500" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-2.png" width="500" height="400"> 
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-1.png" alt="Enclosure Design 1" width="400"/>
+      </td>
+      <td align="center">
+        <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-2.png" alt="Enclosure Design 2" width="400"/>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ## Schemetic of the PCB
 <p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Schematic%20Design.png" ></p>
