@@ -2,15 +2,23 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+This repository contains the code and documentation for the Solar WiFi Router, an innovative project developed as part of the Engineering Design Project at the University of Moratuwa. The Solar WiFi Router is designed to provide uninterrupted internet access during power cuts or in areas without access to an AC power source.
+
 ## Table of Contents
 
+- [Abstract](#abstract)
 - [Introduction](#introduction)
 - [Features](#features)
+- [Components](components)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
+
+## Abstract
+
+In today's world, where internet connectivity has become crucial for education and work, power cuts can disrupt online activities and cause inconvenience to students and employees. The Solar WiFi Router addresses this problem by integrating a 12V rechargeable battery, which can be charged using AC power or solar power. During power cuts, the router switches to battery power using a relay, ensuring continuous WiFi access and LED lighting. The device also features real-time battery charging and manual control switches for added flexibility.
 
 ## Introduction
 
@@ -20,11 +28,23 @@ The motivation behind this project is to bridge the digital divide and bring int
 
 ## Features
 
-- **Solar Power**: The router is equipped with solar panels that capture sunlight and convert it into electricity to power the Wi-Fi router.
-- **Energy Storage**: The system incorporates a battery to store excess energy generated during peak sunlight hours, ensuring continuous operation even in low-light conditions.
-- **Easy Deployment**: The Solar Wi-Fi Router is designed for straightforward installation, making it suitable for remote locations with minimal infrastructure.
-- **Efficient Connectivity**: The router provides stable and reliable Wi-Fi connectivity, ensuring seamless internet access for users.
-- **Open-Source**: This project is open-source, encouraging community contributions and improvements.
+- Continuous WiFi and LED operation during power cuts
+- Switch between AC power, solar power, and battery power
+- Real-time battery charging
+- User-friendly manual control switches
+- Efficient power management
+
+## Components
+
+The project utilizes various electronic components, including:
+
+- LM317T Regulator
+- Zener diode (6.8V)
+- Rectifier Module (1A)
+- Relay Module (24V, 12V)
+- Switches and LEDs
+- 12V rechargeable battery
+- and more
 
 ## Installation
 
@@ -36,11 +56,11 @@ Explain how to use the Solar Wi-Fi Router here. Include instructions on how to c
 
 For example:
 
-1. Connect the solar panels to the Wi-Fi router.
-2. Ensure that the battery is charged by placing the router in direct sunlight.
-3. Connect your device to the router's Wi-Fi network using the provided credentials (SSID and password).
-4. Open a web browser and enter the router's IP address to access the admin panel.
-5. Configure the router settings as needed.
+1. Connect the 230V AC adapter to the "A/C power in" pin.
+2. Connect the WiFi router cable to the "Wi-Fi" pin.
+3. Optionally, connect the solar panel cable to the solar panel pin.
+4. Configure the device according to your requirements using the manual control switches.
+5. Enjoy uninterrupted WiFi access and LED lighting, even during power cuts!
 
 ## Product Architecture
 <p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Product%20Architecture.png"></p>
@@ -105,4 +125,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-Mention any individuals, organizations, or resources that have contributed to the project. This section is a way to give credit to those who have helped make the Solar Wi-Fi Router possible.
+The project was developed as part of the Engineering Design Project at the University of Moratuwa. Special thanks to the faculty, mentors, and contributors for their guidance and support throughout the development process.
