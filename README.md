@@ -47,6 +47,7 @@ For example:
 
 <br>
 
+## Enclosure Design
 
 <p align="center">
   <table>
@@ -71,18 +72,6 @@ For example:
 
 <br>
 
-
-
-|  Trianglar wave         |  Sawtooth wave        
-| :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/69134587/222910026-dea2d3c1-61f7-45c4-bea6-c91960f25ebc.jpeg" width="400" height="300"> | <img src="https://user-images.githubusercontent.com/69134587/222910811-99463169-4f9f-4f23-8bba-c9b1aea3a4fb.jpeg" width="400" height="300">  
-
-| Duty Cycle adjustments
-|:-------------------------:
-| <img src="https://user-images.githubusercontent.com/69134587/222910946-81abf36c-2078-4eaa-95e1-5678e74e6832.jpeg" width="400" height="300">
-
-<br>
-
 ## Schemetic of the PCB
 <p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Schematic%20Design.png" ></p>
 
@@ -92,12 +81,15 @@ For example:
 
 Top Layer                    |  Bottom Layer               
 :-------------------------:|:-------------------------:
-<img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB%20Top%20Layer.png" width="400" height="300"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB%20Bottom%20Layer.png" width="400" height="300"> 
+<img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB%20Top%20Layer.png" width="500" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB%20Bottom%20Layer.png" width="500" height="400"> 
 
 PCB Design
 
 <p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB%20Design.png" ></p>
 
+## Gerber Fabrication
+
+<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Gerber%20Fabrication.png" ></p>
 
 ## Contributing
 
@@ -118,7 +110,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 Mention any individuals, organizations, or resources that have contributed to the project. This section is a way to give credit to those who have helped make the Solar Wi-Fi Router possible.
-
----
-
-Feel free to customize the above template with information specific to your "Solar-Wifi-Router" project. Including images, diagrams, and clear instructions will further enhance the readability and attractiveness of your README.md file. Happy coding and good luck with your project!
