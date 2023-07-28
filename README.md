@@ -71,11 +71,7 @@ For example:
 
 <br>
 
-## Results
 
-Sine wave                    |  Squar wave               
-:-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/69134587/222910203-84bddeb5-e7e9-4421-9822-f4e54db3e82d.jpeg" width="400" height="300"> | <img src="https://user-images.githubusercontent.com/69134587/222910049-7ce69c50-b5a0-4ab4-bd06-3192effcfb65.jpeg" width="400" height="300"> 
 
 |  Trianglar wave         |  Sawtooth wave        
 | :-------------------------:|:-------------------------:
@@ -91,6 +87,17 @@ Sine wave                    |  Squar wave
 <p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Schematic%20Design.png" ></p>
 
 <br>
+
+## PCB Design
+
+Top Layer                    |  Bottom Layer               
+:-------------------------:|:-------------------------:
+<img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB%20Top%20Layer.png" width="400" height="300"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB%20Bottom%20Layer.png" width="400" height="300"> 
+
+PCB Design
+
+<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB%20Design.png" ></p>
+
 
 ## Contributing
 
