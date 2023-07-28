@@ -49,7 +49,26 @@ For example:
 
 
 ## Enclosure
-<p align="center"><img src="https://user-images.githubusercontent.com/69134587/222908629-c612d156-186b-4a8f-ac71-ada7625b579a.jpeg" ></p>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="[path/to/enclosure_image1.jpg" alt="Enclosure Design 1](https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-1.png)" width="400"/>
+      </td>
+      <td align="center">
+        <img src="[path/to/enclosure_image2.jpg" alt="Enclosure Design 2](https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-2.png)" width="400"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="[path/to/enclosure_image3.jpg" alt="Enclosure Design 3](https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-3.png)" width="400"/>
+      </td>
+      <td align="center">
+        <img src="[path/to/enclosure_image4.jpg" alt="Enclosure Design 4](https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-4.png)" width="400"/>
+      </td>
+    </tr>
+  </table>
+</p>
 
 <br>
 
