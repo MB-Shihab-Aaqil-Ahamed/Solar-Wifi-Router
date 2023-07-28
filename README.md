@@ -59,10 +59,10 @@ Side View
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-1.png" alt="Enclosure Design 1" width="400"/>
+        <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-1.png" alt="Enclosure Design 1" width="500"/>
       </td>
       <td align="center">
-        <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-2.png" alt="Enclosure Design 2" width="400"/>
+        <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-2.png" alt="Enclosure Design 2" width="500"/>
       </td>
     </tr>
   </table>
