@@ -1,7 +1,5 @@
 # Solar Wi-Fi Router
 
-![Solar Wi-Fi Router](path/to/your/logo.png)
-
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Table of Contents
@@ -19,8 +17,6 @@
 Solar Wi-Fi Router is an innovative project that aims to create a sustainable and eco-friendly solution for providing Wi-Fi connectivity using solar power. This project is designed to harness solar energy and use it to power a Wi-Fi router, enabling internet connectivity in remote and off-grid locations.
 
 The motivation behind this project is to bridge the digital divide and bring internet access to areas where traditional power sources are limited or unavailable. By utilizing renewable solar energy, the Solar Wi-Fi Router contributes to a greener and more sustainable future.
-
-![Solar Wi-Fi Router in Action](path/to/screenshot.png)
 
 ## Features
 
@@ -46,8 +42,8 @@ For example:
 4. Open a web browser and enter the router's IP address to access the admin panel.
 5. Configure the router settings as needed.
 
-## Main consept
-<p align="center"><img src="https://user-images.githubusercontent.com/69134587/222908387-d2ff8171-847b-41e0-a88f-04b24c6b6beb.jpeg"></p>
+##Product Architecture
+<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Product%20Architecture.png"></p>
 
 <br>
 
