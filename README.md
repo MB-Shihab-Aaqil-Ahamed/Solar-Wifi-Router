@@ -48,23 +48,22 @@ For example:
 <br>
 
 
-## Enclosure
 <p align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="[path/to/enclosure_image1.jpg" alt="Enclosure Design 1](https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-1.png)" width="400"/>
+        <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-1.png" alt="Enclosure Design 1" width="400"/>
       </td>
       <td align="center">
-        <img src="[path/to/enclosure_image2.jpg" alt="Enclosure Design 2](https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-2.png)" width="400"/>
+        <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-2.png" alt="Enclosure Design 2" width="400"/>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="[path/to/enclosure_image3.jpg" alt="Enclosure Design 3](https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-3.png)" width="400"/>
+        <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-3.png" alt="Enclosure Design 3" width="400"/>
       </td>
       <td align="center">
-        <img src="[path/to/enclosure_image4.jpg" alt="Enclosure Design 4](https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-4.png)" width="400"/>
+        <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-4.png" alt="Enclosure Design 4" width="400"/>
       </td>
     </tr>
   </table>
