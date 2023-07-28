@@ -42,7 +42,7 @@ For example:
 4. Open a web browser and enter the router's IP address to access the admin panel.
 5. Configure the router settings as needed.
 
-##Product Architecture
+## Product Architecture
 <p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Product%20Architecture.png"></p>
 
 <br>
