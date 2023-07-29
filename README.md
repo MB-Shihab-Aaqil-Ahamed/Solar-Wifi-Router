@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-This repository contains the code and documentation for the Solar WiFi Router, an innovative project developed as part of the Engineering Design Project at the University of Moratuwa. The Solar WiFi Router is designed to provide uninterrupted internet access during power cuts or in areas without access to an AC power source.
+This repository contains the design files and documentation for the Solar WiFi Router, an innovative project developed as part of the Engineering Design Project at the University of Moratuwa. The Solar WiFi Router is designed to provide uninterrupted internet access during power cuts or in areas without access to an AC power source.
 
 ## Table of Contents
 
