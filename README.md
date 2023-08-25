@@ -69,24 +69,13 @@ For example:
 
 ## Enclosure Design
 
-Front View                    |  Bottom View               
+Side View                  |  Front View               
 :-------------------------:|:-------------------------:
-<img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-3.png" width="500" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-4.png" width="500" height="400"> 
+<img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Side.png" width="500" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Front.png" width="500" height="400"> 
 
-Side View
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-1.png" alt="Enclosure Design 1" width="500"/>
-      </td>
-      <td align="center">
-        <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Enclosure%20Design-2.png" alt="Enclosure Design 2" width="500"/>
-      </td>
-    </tr>
-  </table>
-</p>
+Back View                  |  Up View               
+:-------------------------:|:-------------------------:
+<img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Back.png" width="500" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Up.png" width="500" height="400"> 
 
 ## Schemetic of the PCB
 <p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Schematic%20Design.png" ></p>
