@@ -63,27 +63,40 @@ For example:
 5. Enjoy uninterrupted WiFi access and LED lighting, even during power cuts!
 
 ## Product Architecture
-<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Product%20Architecture.png"></p>
 
+<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Product%20Architecture.png"></p>
+<br>
+
+## Proteus Simulation
+
+<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Proteus Simulation.png"></p>
 <br>
 
 ## Enclosure Hand Sketch Design
 
-:-------------------------:|:-------------------------:
-<img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Hand Sketch.png" width="600" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Hand Sketch-1.png" width="600" height="400"> 
+<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Hand Sketch.png" ></p>
+<br>
+<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Hand Sketch-1.png" ></p>
+<br>
+
 ## Enclosure Design
 
 Side View                  |  Front View               
 :-------------------------:|:-------------------------:
 <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Side View.png" width="600" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Front View.png" width="600" height="400"> 
+<br>
 
 Back View                  |  Up View               
 :-------------------------:|:-------------------------:
 <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Back View.png" width="600" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Up View.png" width="600" height="400"> 
+<br>
 
 ## Schemetic of the PCB
 <p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Schematic%20Design.png" ></p>
+<br>
 
+## PCB Layout
+<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB Layout.png" ></p>
 <br>
 
 ## PCB Design
@@ -91,14 +104,17 @@ Back View                  |  Up View
 Top Layer                  |  Bottom Layer               
 :-------------------------:|:-------------------------:
 <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB%20Top%20Layer.png" width="500" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB%20Bottom%20Layer.png" width="500" height="400"> 
+<br>
 
 ## PCB Design
 
 <p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB%20Design.png" ></p>
+<br>
 
 ## Gerber Fabrication
 
 <p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Gerber%20Fabrication.png" ></p>
+<br>
 
 ## Contributing
 
