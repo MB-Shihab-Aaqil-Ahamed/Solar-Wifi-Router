@@ -69,8 +69,8 @@ For example:
 
 ## Enclosure Hand Sketch Design
 
-<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Hand Sketch.png" ></p>
-
+:-------------------------:|:-------------------------:
+<img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Hand Sketch.png" width="600" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Hand Sketch-1.png" width="600" height="400"> 
 ## Enclosure Design
 
 Side View                  |  Front View               
