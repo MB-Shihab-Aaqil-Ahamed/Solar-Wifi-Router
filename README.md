@@ -67,15 +67,19 @@ For example:
 
 <br>
 
+## Enclosure Hand Sketch Design
+
+<p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Hand Sketch.png" ></p>
+
 ## Enclosure Design
 
 Side View                  |  Front View               
 :-------------------------:|:-------------------------:
-<img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Side View.png" width="500" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Front View.png" width="500" height="400"> 
+<img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Side View.png" width="600" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Front View.png" width="600" height="400"> 
 
 Back View                  |  Up View               
 :-------------------------:|:-------------------------:
-<img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Back View.png" width="500" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Up View.png" width="500" height="400"> 
+<img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Back View.png" width="600" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Up View.png" width="600" height="400"> 
 
 ## Schemetic of the PCB
 <p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/Schematic%20Design.png" ></p>
@@ -84,11 +88,11 @@ Back View                  |  Up View
 
 ## PCB Design
 
-Top Layer                    |  Bottom Layer               
+Top Layer                  |  Bottom Layer               
 :-------------------------:|:-------------------------:
 <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB%20Top%20Layer.png" width="500" height="400"> | <img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB%20Bottom%20Layer.png" width="500" height="400"> 
 
-PCB Design
+## PCB Design
 
 <p align="center"><img src="https://github.com/MB-Shihab-Aaqil-Ahamed/Solar-Wifi-Router/blob/master/Images/PCB%20Design.png" ></p>
 
